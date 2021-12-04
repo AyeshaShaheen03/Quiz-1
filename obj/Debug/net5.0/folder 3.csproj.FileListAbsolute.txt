@@ -1,0 +1,16 @@
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\folder 3.csproj.AssemblyReference.cache
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\folder 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\folder 3.AssemblyInfoInputs.cache
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\folder 3.AssemblyInfo.cs
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\folder 3.csproj.CoreCompileInputs.cache
+C:\Users\Ayesha\Desktop\folder 3\bin\Debug\net5.0\folder 3.exe
+C:\Users\Ayesha\Desktop\folder 3\bin\Debug\net5.0\folder 3.deps.json
+C:\Users\Ayesha\Desktop\folder 3\bin\Debug\net5.0\folder 3.runtimeconfig.json
+C:\Users\Ayesha\Desktop\folder 3\bin\Debug\net5.0\folder 3.runtimeconfig.dev.json
+C:\Users\Ayesha\Desktop\folder 3\bin\Debug\net5.0\folder 3.dll
+C:\Users\Ayesha\Desktop\folder 3\bin\Debug\net5.0\ref\folder 3.dll
+C:\Users\Ayesha\Desktop\folder 3\bin\Debug\net5.0\folder 3.pdb
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\folder 3.dll
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\ref\folder 3.dll
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\folder 3.pdb
+C:\Users\Ayesha\Desktop\folder 3\obj\Debug\net5.0\folder 3.genruntimeconfig.cache
